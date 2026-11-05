@@ -1,9 +1,9 @@
-_schema-version: 3.3.0
+_schema-version: "3.3"
 ID: incident-management
 version: 1.0.0
 description: "A simple CAP project."
 
-parameters:cf
+parameters:
   enable-parallel-deployments: true
   deploy_mode: html5-repo
 
